@@ -1,0 +1,33 @@
+h1,
+h2,
+h3 {
+    font-weight: bolder;
+    line-height: 1;
+    text-transform: capitalize;
+    text-decoration-color: blue;
+    
+}
+
+html {
+    background: #fff;
+    font-family: "Open Sans", arial, sans-serif;
+    font-size: 1rem;
+}
+
+#text-linkedin #text-front #text-full #text-cloud #text-github{
+    font-size: .8rem;
+}
+
+#linkedin-title #cloud-title #git-title #full-title #front-title{
+    color:#3b85ce
+}
+.title-blog{
+    text-align:left; 
+    margin:20px;
+}
+.class-box{
+    text-align: justify; 
+    margin:15px
+}
+
+
